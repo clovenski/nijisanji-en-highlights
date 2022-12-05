@@ -1,4 +1,4 @@
-# Nijisanji EN Highlights
+# [Nijisanji EN Highlights](https://nijisanji-en-highlights.com)
 
 Website to view raw highlights of the recent streams of the Nijisanji EN livers.
 
