@@ -51,3 +51,7 @@ You can view the changes made to this application [here](https://github.com/clov
 ## Privacy
 
 You can review the privacy policy [here](https://github.com/clovenski/nijisanji-en-highlights/blob/main/assets/PrivacyPolicy.md).
+
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W34N0W3)
