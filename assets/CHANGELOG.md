@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.1.1] - 2022-12-30
+
+### Changed
+
+- Date picker module to not be restricted (so you can navigate to future dates)
+
+### Removed
+
+- Next and previous day buttons on the page
+
 ## [v0.1.0] - 2022-12-30
 
 ### Added
