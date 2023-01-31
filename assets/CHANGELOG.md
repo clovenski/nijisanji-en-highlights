@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.1.2] - 2023-01-30
+
+### Changed
+
+- Copyright in footer
+- Loading spinner to be more in center of page
+
 ## [v0.1.1] - 2022-12-30
 
 ### Changed
