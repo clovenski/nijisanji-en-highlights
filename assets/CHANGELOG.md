@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.2.0] - 2023-06-21
+
+### Added
+
+- Krisis members
+
 ## [v0.1.3] - 2023-03-10
 
 ### Removed
