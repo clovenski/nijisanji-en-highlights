@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.2.2] - 2023-08-27
+
+### Removed
+
+- Mysta's channel from filters
+
 ## [v0.2.1] - 2023-07-08
 
 ### Removed
