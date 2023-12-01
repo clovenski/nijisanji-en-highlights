@@ -1,6 +1,10 @@
-# [Nijisanji EN Highlights](https://nijisanji-en-highlights.com)
+# Nijisanji EN Highlights
 
 Website to view raw highlights of the recent streams of the Nijisanji EN livers.
+
+## ⚠️ DEPRECATED ⚠️
+
+This website has been deprecated and shut down to save 💰.
 
 ## Usage
 
